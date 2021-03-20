@@ -1,0 +1,7 @@
+print("Enter x, y and z:")
+a = input()
+print(type(a))
+b = input()
+print(type(b))
+c = int(input('Number：'))
+print(type(c))
